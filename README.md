@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Aynalist
+- 👀 I’m interested in python, matlab, financial coding
+- 🌱 I’m currently learning python,AI
+- 📫 How to reach me: t.me/aynalistam
